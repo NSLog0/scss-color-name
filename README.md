@@ -1,6 +1,6 @@
 # scss-color-name
 Name color for declare in a scss variable style
-
+```scss
 $abbey: #4c4f56;
 $acadia: #1b1404;
 $acapulco: #7cb0a1;
@@ -1567,3 +1567,4 @@ $zombie: #e4d69b;
 $zorba: #a59b91;
 $zuccini: #044022;
 $zumthor: #edf6ff;
+```
