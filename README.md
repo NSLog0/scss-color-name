@@ -3,7 +3,7 @@ Name color for declare in a scss variable style
 
 How to use? 
 ```
-@import '[directory]/filename.scss'
+@import '[directory]/filename.scss';
 ```
 
 
@@ -24,7 +24,7 @@ You may have a questiion, You prefer me to use those code on my project?, The an
 
 #### Incorrect usecase
 ```scss
-@import '[directory]/color.scss'
+@import '[directory]/color.scss';
 
 .button-like { 
   color: $abbey;
@@ -42,7 +42,7 @@ I you you as above I shown you, Please stop it. It's meaningless and heard to re
 
 ```scss
 // override_color.scss
-@import '[directory]/color.scss'
+@import '[directory]/color.scss';
 
 $button_like_text: $abbey;
 $button_like_bg: $akaroa;
