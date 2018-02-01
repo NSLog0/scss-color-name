@@ -52,7 +52,7 @@ main_bg: $akaroa;
 
 
 ```scss
-@import '[directory]/override_color.scss
+@import '[directory]/override_color.scss;
 
 .button-like { 
   color: $abbey;
