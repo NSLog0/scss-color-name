@@ -36,7 +36,7 @@ You may have a questiion, You prefer me to use those code on my project?, The an
 }
 ```
 
-If you use as above I shown you, Please stop it. It's meaningless and heard to read.
+If you used as above I shown you, Please stop it. It's meaningless and hard to read.
 
 #### Correct usecase 
 
@@ -64,4 +64,4 @@ main_bg: $akaroa;
 }
 ```
 
-In this case you can categorize you varible group and add meaning to those variable to color. Easy to read.
+In this case you can categorize your variable group and add meaning to those variables to color. Easy to read.
