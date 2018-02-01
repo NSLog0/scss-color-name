@@ -36,7 +36,7 @@ You may have a questiion, You prefer me to use those code on my project?, The an
 }
 ```
 
-I you you as above I shown you, Please stop it. It's meaningless and heard to read.
+If you use as above I shown you, Please stop it. It's meaningless and heard to read.
 
 #### Correct usecase 
 
