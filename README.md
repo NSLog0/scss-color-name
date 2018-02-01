@@ -55,12 +55,12 @@ main_bg: $akaroa;
 @import '[directory]/override_color.scss';
 
 .button-like { 
-  color: $abbey;
-  background: $akaroa;
+  color: $button_like_text;
+  background: $button_like_bg;
 }
 
 .main-bg { 
-  background: $akaroa;
+  background: $main_bg;
 }
 ```
 
